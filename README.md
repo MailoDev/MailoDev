@@ -1,1 +1,5 @@
-### MailoDev 🧪<br><br>>Oi me chamo Mailo, E amo trabalhar com desenvolvimento Web!<br><br> - 💼 Minha ocupação atualmente:<br>Atualmente desenvolvo sites sobre encomenda
+### MailoDev 🧪
+
+Oi me chamo Mailo, E amo trabalhar com desenvolvimento Web!
+
+- 💼 Minha ocupação atualmente:<br>Atualmente desenvolvo sites sobre encomenda
