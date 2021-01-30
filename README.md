@@ -8,13 +8,13 @@ Atualmente desenvolvo sites sobre encomenda
 - 🍿 Tempo livre:
 No tempo livre costumo desenvolve projetos pessoais, mas que não vão ao ar, faço mas para aquecer meu conhecimento e apremder coisas novas
 
-#### :building_construction: Linguagens que uso:
+#### 📜 Linguagens que uso:
 
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
 
-#### :building_construction: Software que uso:
+#### 🔧 Software que uso:
 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/></a>
