@@ -2,12 +2,6 @@
 
 Oi me chamo Mailo, E amo trabalhar com desenvolvimento Web!
 
-- 💼 Minha ocupação atualmente:
-Estudante de progamação.
-
-- 🍿 Tempo livre:
-No tempo livre costumo desenvolve projetos pessoais, mas que não vão ao ar, faço mas para aquecer meu conhecimento e apremder coisas novas
-
 #### 📜 Linguagens que uso:
 
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
