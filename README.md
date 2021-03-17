@@ -1,7 +1,7 @@
 ## MailoDev - Biography・👋
 MailoDev, um programador que treina suas habilidades fazendo sites sobre encomenda. <a href="https://github.com/MailoDev">Github</a>.
 
-<img align="right" src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" height="160px" />
+<img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
 Projetos são feitos totalmente responsivos e funcionando normalmente, ou caso apresente um emprevisto e tenha um problema. <a href="https://github.com/Dev-Atsushi/">Reporte</a>.
   
