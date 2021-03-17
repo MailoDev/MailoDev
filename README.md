@@ -17,7 +17,6 @@ Desenvolvendo e aprendendo.
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/React-blue.svg?style=for-the-badge&logo=react&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Shell-green.svg?style=for-the-badge&logo=shell&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25" />
 </p> 
 
