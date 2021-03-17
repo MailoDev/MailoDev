@@ -1,17 +1,23 @@
-### MailoDev 🧪
+## MailoDev - Biography・👋
+MailoDev, um programador que treina suas habilidades fazendo sites sobre encomenda. <a href="https://github.com/MailoDev">Github</a>.
 
-Oi me chamo Mailo, E amo trabalhar com desenvolvimento Web!
+<img align="right" src="https://cdn.glitch.com/eee4f430-9a8b-4d56-b461-96c75e6db402%2Fimage-removebg-preview(1).png?v=1612131826385" height="160px" />
 
-#### 📜 Linguagens que uso:
+Projetos são feitos totalmente responsivos e funcionando normalmente, ou caso apresente um emprevisto e tenha um problema. <a href="https://github.com/Dev-Atsushi/">Reporte</a>.
+  
+Desenvolvendo e aprendendo.
 
-<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
+## Tecnologias e ferramentas・💻
 
-#### 🔧 Software que uso:
+<p align="center">
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Html-ffa500.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Css-7273ff.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" />
+</p> 
 
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/></a>
-<a href="https://github.com"><img src="https://img.icons8.com/color/30/000000/github-2.png"/></a>
+## Estatistícas・⭐
 
-![MailoDev github stats](https://github-readme-stats.vercel.app/api?username=MailoDev&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=a6a6a6&bg_color=0E1013)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mailodev&show_icons=true&theme=tokyonight&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailodev&hide=batchfile&theme=tokyonight" />
+</p>
