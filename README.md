@@ -5,7 +5,7 @@ Caso queira da uma olhada no meu site/portfólio aqui está: <a href="https://ma
 
  ・Tenho 14 anos<br>
  ・Sou Desenvolvedor Front-End<br>
- ・Sei o basico de back-end<a href="https://github.com/Dev-Atsushi/">Reporte</a>.
+ ・Sei o basico de back-en
   
 Desenvolvendo e aprendendo.
 
