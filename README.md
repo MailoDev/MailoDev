@@ -3,8 +3,8 @@ Caso queira da uma olhada no meu site/portfólio aqui está: <a href="https://ma
 
 <img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
- ・Tenho 14 anos
- ・Sou Desenvolvedor Front-End
+ ・Tenho 14 anos<br>
+ ・Sou Desenvolvedor Front-End<br>
  ・Sei o basico de back-end<a href="https://github.com/Dev-Atsushi/">Reporte</a>.
   
 Desenvolvendo e aprendendo.
