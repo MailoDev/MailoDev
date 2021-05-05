@@ -22,7 +22,7 @@ Desenvolvendo e aprendendo.
 <img src="https://img.shields.io/badge/Python-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/figma-%23F7DF1E.svg?&style=for-the-badge&logo=figma&logoColor=black" height="25"/>
  <img src="https://img.shields.io/badge/git-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=blue" height="25"/>
+ <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/php-7273ff.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 </p> 
 
