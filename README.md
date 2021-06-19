@@ -1,15 +1,14 @@
-## 💻 MailoDev
+## 🎖️ MailoDev
 Caso queira da uma olhada no meu site/portfólio aqui está: <a href="https://mailodev.vercel.app">Portfólio</a>.
 
 <img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
- ・Tenho 14 anos<br>
- ・Sou Desenvolvedor Front-End<br>
- ・Sei o basico de back-end
-  
-Desenvolvendo e aprendendo.
+ ・Sou Desenvolvedor Front-End;<br>
+ ・Desenrolo no Back-End;<br>
+ ・Em busca de coisas novas;<br>
+ ・Desenvolvendo e aprendendo.
 
-## 🧪 Tecnologias e ferramentas
+## 🧪 Tecnologias
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
@@ -23,7 +22,7 @@ Desenvolvendo e aprendendo.
  <img src="https://img.shields.io/badge/vue.js-41b883.svg?&style=for-the-badge&logo=vue.js&logoColor=white" height="25"/>
 </p> 
 
-## Estatistícas・⭐
+## ⭐ Estatistícas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mailodev&show_icons=true&theme=tokyonight&line_height=27" />
