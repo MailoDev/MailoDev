@@ -1,5 +1,5 @@
 ## 🎖️ MailoDev
-Caso queira da uma olhada no meu site/portfólio aqui está: <a href="https://mailodev.vercel.app">Portfólio</a>.
+Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub.
 
 <img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
