@@ -1,5 +1,5 @@
 ## 🎖️ MailoDev
-Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub.
+Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus projetos públicos que já fiz, para verem minha evolução.
 
 <img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
