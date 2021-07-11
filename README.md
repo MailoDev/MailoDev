@@ -10,9 +10,9 @@ Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus p
 
 ## ⭐ Estatistícas
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mailodev&show_icons=true&theme=tokyonight&line_height=27" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailodev&hide=batchfile&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailodev&hide=batchfile&theme=tokyonight&line_height=27" />
 </div>
 
 ## 🧪 Tecnologias
