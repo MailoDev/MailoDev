@@ -11,6 +11,7 @@ Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus p
 
 ## 🏌️‍ Entre em contato comigo:
 - 👨‍💻 **Portfólio:** [Em Desenvolvimento](https://mailodev.space)
+- 📸 **Instagram:** [@mailodev](https://www.instagram.com/mailodev/)
 - 📡 **Discord:** [Mailo#0008](https://discord.com/users/737100011552112720)
 - 📧 **Email:** [mailo.dev.publico@gmail.com](mailto:mailo.dev.publico@gmail.com)
 
