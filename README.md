@@ -1,19 +1,20 @@
 ## 🤸‍♂️ MailoDev
 Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus projetos públicos que já fiz, para verem minha evolução.
 
-<img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
+<img align="right" src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9523uttdb7yyu3u0kmgh79eacdkkboumwh8lnrcoeb4&rid=giphy.gif&ct=s" height="160px" />
 
+## 🤯 Sobre Mim:
 - 🤓 **Sou Desenvolvedor Front-End;<br>**
 - 🙃 **Desenrolo no Back-End;<br>**
 - 🤩 **Em busca de coisas novas;<br>**
 - 📚 **Desenvolvendo e aprendendo.**
 
-## 🏌️‍ ♂️Entre em contato comigo:
+## 🏌️‍ Entre em contato comigo:
 - 👨‍💻 **Portfólio:** [Em Desenvolvimento](https://mailodev.space)
 - 📡 **Discord:** [Mailo#0008](https://discord.com/users/737100011552112720)
 - 📧 **Email:** [mailo.dev.publico@gmail.com](mailto:mailo.dev.publico@gmail.com)
-## ⭐ Estatistícas
 
+## ⭐ Estatistícas
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mailodev&show_icons=true&theme=tokyonight&line_height=27" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailodev&hide=batchfile&theme=tokyonight&line_height=27" />
