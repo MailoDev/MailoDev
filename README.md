@@ -32,4 +32,5 @@ Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus p
  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>
   <img src="https://camo.githubusercontent.com/08571e8dadfd5bd55eb4d0550fb5f7c8a7b9eb6fade9223daf9acdd64f0996fa/68747470733a2f2f692e696d6775722e636f6d2f686b70564576722e706e67" height="40"/>
   <img src="https://camo.githubusercontent.com/1932add4c52fcc0d26d92767dba2e4611cb97919b7b44b13c7963228b12e52cb/68747470733a2f2f692e696d6775722e636f6d2f6e78734e51394d2e706e67" height="40"/>
+  <img src="https://4.bp.blogspot.com/-Ka0WHy7Tb7c/XBk1DmLEB8I/AAAAAAAAiYk/9g1JHG1NVU0JzWaUM0MxOCFC_GR1hZgaQCLcBGAs/s1600/powershell.png" height="40"/>
 </div>
