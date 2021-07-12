@@ -3,7 +3,7 @@ Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus p
 
 <img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
- ・Sou Desenvolvedor Front-End;<br>
+ **・**Sou Desenvolvedor Front-End;<br>
  ・Desenrolo no Back-End;<br>
  ・Em busca de coisas novas;<br>
  ・Desenvolvendo e aprendendo.
