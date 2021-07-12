@@ -1,13 +1,17 @@
-## 🦄 MailoDev
+## 🤸‍♂️ MailoDev
 Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus projetos públicos que já fiz, para verem minha evolução.
 
 <img align="right" src="http://mailodev.glitch.me/layers" height="160px" />
 
- <b>・Sou Desenvolvedor Front-End;</b><br>
- <b>・Desenrolo no Back-End;</b><br>
- <b>・Em busca de coisas novas;</b><br>
- <b>・Desenvolvendo e aprendendo.</b>
+- 🤓 **Sou Desenvolvedor Front-End;<br>**
+- 🙃 **Desenrolo no Back-End;<br>**
+- 🤩 **Em busca de coisas novas;<br>**
+- 📚 **Desenvolvendo e aprendendo.**
 
+## 🏌️‍ ♂️Entre em contato comigo:
+- 👨‍💻 **Portfólio:** [Em Desenvolvimento](https://mailodev.space)
+- 📡 **Discord:** [Mailo#0008](https://discord.com/users/737100011552112720)
+- 📧 **Email:** [mailo.dev.publico@gmail.com](mailto:mailo.dev.publico@gmail.com)
 ## ⭐ Estatistícas
 
 <div align="left">
@@ -15,7 +19,7 @@ Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailodev&hide=batchfile&theme=tokyonight&line_height=27" />
 </div>
 
-## 🧪 Tecnologias
+## 💻 Tecnologias
 <div>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="40"/>
