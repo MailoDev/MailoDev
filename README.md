@@ -34,4 +34,5 @@ Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus p
   <img src="https://camo.githubusercontent.com/08571e8dadfd5bd55eb4d0550fb5f7c8a7b9eb6fade9223daf9acdd64f0996fa/68747470733a2f2f692e696d6775722e636f6d2f686b70564576722e706e67" height="40"/>
   <img src="https://camo.githubusercontent.com/1932add4c52fcc0d26d92767dba2e4611cb97919b7b44b13c7963228b12e52cb/68747470733a2f2f692e696d6775722e636f6d2f6e78734e51394d2e706e67" height="40"/>
   <img src="https://4.bp.blogspot.com/-Ka0WHy7Tb7c/XBk1DmLEB8I/AAAAAAAAiYk/9g1JHG1NVU0JzWaUM0MxOCFC_GR1hZgaQCLcBGAs/s1600/powershell.png" height="40"/>
+  <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="40"/>
 </div>
