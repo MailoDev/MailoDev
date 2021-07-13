@@ -1,5 +1,6 @@
 ## 🤸‍♂️ MailoDev
 Olá! Seja muito bem-vindo ao meu perfil aqui no GitHub, Aqui deixo todos meus projetos públicos que já fiz, para verem minha evolução.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mailodev&label=Profile%20views&color=0e75b6&style=flat" alt="mailodev" /> </p>
 
 <img align="right" src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9523uttdb7yyu3u0kmgh79eacdkkboumwh8lnrcoeb4&rid=giphy.gif&ct=s" height="160px" />
 
